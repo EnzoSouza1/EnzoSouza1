@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/EnzoSouza1/EnzoSouza1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
